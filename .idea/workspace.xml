@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8fe2c65-2970-4463-8f0c-d209d87d5e27" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/DecoratorDesignPattern/DecoratorDesignPattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/FactoryDesignPattern/FactoryDesignPattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/LLDTicTacToe/LLDTicTacToe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/LLDTicTacToe2/LLDTicTacToe2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/ObserverDesignPattern/ObserverDesignPattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/StrategyDesignPattern/StrategyDesignPattern.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VZNQkDSm7gXBFqk9RCtaDHSgiq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Chetan_Datta/Documents/GitHub/chetandatta77/lld"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8fe2c65-2970-4463-8f0c-d209d87d5e27" name="Changes" comment="" />
+      <created>1695039629506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695039629506</updated>
+    </task>
+    <servers />
+  </component>
+</project>

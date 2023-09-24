@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DecoratorDesignPattern/DecoratorDesignPattern.iml" filepath="$PROJECT_DIR$/DesignPatterns/DecoratorDesignPattern/DecoratorDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/FactoryDesignPattern/FactoryDesignPattern.iml" filepath="$PROJECT_DIR$/DesignPatterns/FactoryDesignPattern/FactoryDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/LLDTicTacToe/LLDTicTacToe.iml" filepath="$PROJECT_DIR$/DesignPatterns/LLDTicTacToe/LLDTicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/LLDTicTacToe2/LLDTicTacToe2.iml" filepath="$PROJECT_DIR$/DesignPatterns/LLDTicTacToe2/LLDTicTacToe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/ObserverDesignPattern/ObserverDesignPattern.iml" filepath="$PROJECT_DIR$/DesignPatterns/ObserverDesignPattern/ObserverDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/StrategyDesignPattern/StrategyDesignPattern.iml" filepath="$PROJECT_DIR$/DesignPatterns/StrategyDesignPattern/StrategyDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lld.iml" filepath="$PROJECT_DIR$/.idea/lld.iml" />
+    </modules>
+  </component>
+</project>
