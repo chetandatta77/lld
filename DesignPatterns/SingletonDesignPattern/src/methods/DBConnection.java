@@ -2,16 +2,18 @@ package methods;
 
 public class DBConnection {
 
-    private static DBConnection conObject;
+    private volatile static DBConnection conObject;
+    int memberVariable;
 
-    private DBConnection(){
+    private DBConnection(int memberVariable){
+        this.memberVariable = memberVariable;
     }
 
     public static DBConnection getInstance(){
         if (conObject==null){
             synchronized (DBConnection.class){
                 if (conObject==null){
-                    conObject = new DBConnection();
+                    conObject = new DBConnection(10);
                 }
             }
         }
